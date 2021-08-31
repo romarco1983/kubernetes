@@ -148,10 +148,6 @@
 
 # INTRODUCCIÓN<a name="introduccion"></a>
 
-Somos Roberto Martínez y Alejandro López, dos alumnos de Administración de Sistemas Informáticos en Red.
-
-Hemos seleccionado  Kubernetes para nuestro proyecto final porque creemos que actualmente es la tecnología puntera en virtualización y alta disponibilidad, lo cual nos puede ser de mucha utilidad en nuestra vida laboral.
-
 ## **¿Qué es Kubernetes?**<a name="queeskubernetes"></a>
 
 Kubernetes (timonel o piloto en griego) es un software de orquestación de código abierto que permite implementar, administrar y escalar aplicaciones en  unidades lógicas para gestionarlas y darles visibilidad. 
